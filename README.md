@@ -29,7 +29,7 @@ Aiming to proceed to graduate school (Class of 2029).
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh1ragami&show_icons=true&theme=radical&count_private=true" alt="Yuiki's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuikinman21&show_icons=true&theme=radical&count_private=true" alt="Yuiki's Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1ragami&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuikinman21&layout=compact&theme=radical" alt="Top Languages" />
 </div>
