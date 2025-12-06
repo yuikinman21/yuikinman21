@@ -1,6 +1,6 @@
 # Hi there, I'm YUIKI 👋
 
-大阪公立大学 工学部 情報工学科 3年。
+大阪公立大学 工学部 情報工学科 3年
 
 Currently a 3rd-year undergraduate student at **Osaka Metropolitan University**, Department of Information Engineering.
 Skilled in Web technologies, low-level programming, 3D modeling, and Video Editing.
