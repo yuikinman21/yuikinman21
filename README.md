@@ -36,6 +36,8 @@ Aiming to proceed to graduate school (Class of 2029).
 **Tools & Creative**
 <p align="left">
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-121212?style=for-the-badge&logo=davinciresolve&logoColor=white" />
   <img src="https://img.shields.io/badge/AviUtl-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
