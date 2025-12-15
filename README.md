@@ -40,6 +40,7 @@ Aiming to proceed to graduate school (Class of 2029).
   <img src="https://img.shields.io/badge/DaVinci_Resolve-121212?style=for-the-badge&logo=davinciresolve&logoColor=white" />
   <img src="https://img.shields.io/badge/AviUtl-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
