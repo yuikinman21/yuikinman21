@@ -9,7 +9,7 @@ Aiming to proceed to graduate school (Class of 2029).
 ---
 
 ### 🎓 Certifications
-* **Applied Information Technology Engineer Examination (AP)** - Took the exam in Oct 2025 (Results pending/1st attempt)
+* **Applied Information Technology Engineer Examination (AP)** - Certified in Oct 2025
 * **Fundamental Information Technology Engineer Examination (FE)** - Certified in Jun 2025
 
 ### 🛠 Tech Stack
@@ -44,6 +44,7 @@ Aiming to proceed to graduate school (Class of 2029).
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
