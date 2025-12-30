@@ -9,7 +9,7 @@ Aiming to proceed to graduate school (Class of 2029).
 ---
 
 ### 🎓 Certifications
-* **Information Processing Safety Assurance Support Specialist (SC)** - Studying for Exam
+* **Information Processing Safety Assurance Support Specialist (SC)** - Studying
 * **Applied Information Technology Engineer Examination (AP)** - Certified in Oct 2025
 * **Fundamental Information Technology Engineer Examination (FE)** - Certified in Jun 2025
 
