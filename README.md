@@ -9,6 +9,7 @@ Aiming to proceed to graduate school (Class of 2029).
 ### 🌐 Portfolio & Links
 * [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Next.js&logoColor=white)](https://yuiki.dev)
 * [![Note](https://img.shields.io/badge/Note-41C9B4?style=for-the-badge&logo=note&logoColor=white)](https://note.com/yuikinman21)
+* [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/yuikinman21)
 * [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/yuikinman21)
 
 ### 🎓 Certifications
